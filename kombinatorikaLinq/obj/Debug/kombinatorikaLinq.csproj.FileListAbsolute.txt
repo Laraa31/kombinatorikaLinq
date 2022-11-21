@@ -1,0 +1,8 @@
+C:\Users\ucenik\source\repos\kombinatorikaLinq\bin\Debug\kombinatorikaLinq.exe.config
+C:\Users\ucenik\source\repos\kombinatorikaLinq\bin\Debug\kombinatorikaLinq.exe
+C:\Users\ucenik\source\repos\kombinatorikaLinq\bin\Debug\kombinatorikaLinq.pdb
+C:\Users\ucenik\source\repos\kombinatorikaLinq\obj\Debug\kombinatorikaLinq.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\kombinatorikaLinq\obj\Debug\kombinatorikaLinq.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\kombinatorikaLinq\obj\Debug\kombinatorikaLinq.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\kombinatorikaLinq\obj\Debug\kombinatorikaLinq.exe
+C:\Users\ucenik\source\repos\kombinatorikaLinq\obj\Debug\kombinatorikaLinq.pdb
